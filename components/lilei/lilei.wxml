@@ -1,16 +1,16 @@
 <!--components/lilei/lilei.wxml-->
 <!-- pages/kfc/kfc.wxml -->
 <view class="one">
-    <image src="../../kfcimages/Screenshot_20190106-133704_03.jpg" />
+    <image src="../../images/lilei/Screenshot_20190106-133704_03.jpg" />
 </view>
 <view class="two">
-    <image src="../../kfcimages/Screenshot_20190106-133704_07.jpg" />
+    <image src="../../images/lilei/Screenshot_20190106-133704_07.jpg" />
     <text>肯德基礼品卡</text>
 </view>
 <view class='three'>
     <view class="three_top">
         <view>
-            <image src="../../kfcimages/Screenshot_20190106-133704_10.jpg" />
+            <image src="../../images/lilei/Screenshot_20190106-133704_10.jpg" />
         </view>
         <view>
             <text>50元礼品卡</text>
@@ -20,7 +20,7 @@
     </view>
     <view class="three_top">
         <view>
-            <image src="../../kfcimages/Screenshot_20190106-133704_12.jpg" />
+            <image src="../../images/lilei/Screenshot_20190106-133704_12.jpg" />
         </view>
         <view>
             <text>100元礼品卡</text>
@@ -30,7 +30,7 @@
     </view>
     <view class="three_top">
         <view>
-            <image src="../../kfcimages/Screenshot_20190106-133704_16.jpg" />
+            <image src="../../images/lilei/Screenshot_20190106-133704_16.jpg" />
         </view>
         <view>
             <text>200元礼品卡</text>
