@@ -1,0 +1,14 @@
+<!--pages/daohang/daohang.wxml-->
+<swiper  class="swiper-block"   next-margin="600rpx" current="0" bindchange="swiperChange" >
+    <block wx:for="{{Images}}" wx:index="{{index}}">
+        <swiper-item class="swiper-item" data-index="{{index}}"  bindtap="click">
+            <view>
+              <image mode="aspectFill" src="{{item.url}}" class="slide-image {{swiperIndex == index ? 'active' : ''}}"/>
+            </view>
+            <view class='textmargin'> <text >{{item.name}}</text></view>  
+        </swiper-item>
+    </block>
+</swiper>
+<view>
+    <typ wx:if="{{swiperIndex==5}}"></typ>
+</view>
