@@ -1,0 +1,69 @@
+/* pages/xishiduo/xishiduo.wxss */
+.title{
+    width: 150rpx;
+    height: 220rpx;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.titleImg{
+    width: 120rpx;
+    height: 120rpx;
+}
+
+.titleText{
+    font-size: 24rpx;
+    color: rgb(126,126,126)
+}
+
+.big{
+    width: 690rpx;
+    height: 415rpx;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.bigImg{
+    width: 690rpx;
+    height: 415rpx;
+}
+
+.card{
+    width: 250rpx;
+    height: 75rpx;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 30rpx;
+}
+
+.cardText{
+    font-size: 26rpx;
+    color: rgb(126,126,126)
+}
+
+.ticket{
+    width: 670rpx;
+    margin: auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.ticketImg{
+    width: 315rpx;
+    height: 290rpx;
+}
+
+.userinfo-avatar{
+    width: 90rpx;
+    height: 90rpx;
+    border-radius: 50%;
+    position: fixed;
+    right: 15rpx;
+    bottom: 160rpx;
+}
