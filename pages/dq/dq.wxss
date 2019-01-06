@@ -1,0 +1,39 @@
+/* pages/dq/dq.wxss */
+.container{
+    padding: 20rpx;
+}
+.dqImg{
+    width: 100%;
+    height: 388rpx;
+    overflow: hidden;
+}
+.dqImg>image{
+    width: 100%;
+    height: 388rpx;
+}
+.detail{
+    margin-top: 20rpx;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.detail>image{
+    width: 647rpx;
+    height: 389rpx;
+}
+.detail>image:first-child{
+    margin-right: 20rpx;
+}
+.dqCard{
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 30rpx;
+    margin-bottom: 20rpx;
+}
+.dqCard>image{
+    width: 58rpx;
+    height: 34rpx;
+    margin-right: 12rpx;
+}
