@@ -1,18 +1,1 @@
 <!-- pages/dq/dq.wxml -->
-<view class="container">
-    <view class="dqImg">
-        <image mode="scaleToFill" src="../../images/dq/ssss.png" />
-    </view>
-    <view class="dqCard">
-        <image mode="scaleToFill" src="../../images/dq/xiangyun.png" />
-        <text>DQ电子缤纷卡</text>
-    </view>
-    <view class="detail">
-        <image mode="scaleToFill" src="../../images/dq/Screenshot_20190104-172820_07.png" />
-        <image mode="scaleToFill" src="../../images/dq/Screenshot_20190104-172820_07.png" />
-    </view>
-    <view class="detail">
-        <image mode="scaleToFill" src="../../images/dq/Screenshot_20190104-172820_07.png" />
-        <image mode="scaleToFill" src="../../images/dq/Screenshot_20190104-172820_07.png" />
-    </view>
-</view>
