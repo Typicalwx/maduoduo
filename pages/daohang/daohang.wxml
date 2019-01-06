@@ -10,5 +10,8 @@
     </block>
 </swiper>
 <view>
-    <typ wx:if="{{swiperIndex==5}}"></typ>
+   <xishiduo wx:if="{{swiperIndex==0}}"></xishiduo>
+    <lilei wx:if="{{swiperIndex==2}}"></lilei>
+    <typ wx:elif="{{swiperIndex==4}}"></typ>
+    <tianfu wx:elif="{{swiperIndex==5}}"></tianfu>
 </view>

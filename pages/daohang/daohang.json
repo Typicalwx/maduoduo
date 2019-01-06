@@ -1,5 +1,8 @@
 {
   "usingComponents": {
-    "typ": "../../components/typ/typ"
+    "typ": "../../components/typ/typ",
+    "lilei": "../../components/lilei/lilei",
+    "tianfu": "../../components/tianfu/tianfu",
+    "xishiduo": "../../components/xishiduo/xishiduo"
   }
 }
