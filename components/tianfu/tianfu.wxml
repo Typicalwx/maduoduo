@@ -1,0 +1,15 @@
+<!-- components/tianfu.wxml -->
+<view class="container">
+    <image src="/images/tianfu/IMG_0516_03.png" />
+    <view>
+        <view class="clouds">
+            <image src="/images/tianfu/祥云.png" />
+            <text>天福心意卡</text>
+        </view>
+        <view class="money">
+            <image src="/images/tianfu/11_03.png" />
+            <image src="/images/tianfu/11_05.png" />
+            <image src="/images/tianfu/11_09.png" />
+        </view>
+    </view>
+</view>
