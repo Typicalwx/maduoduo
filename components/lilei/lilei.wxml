@@ -1,0 +1,41 @@
+<!--components/lilei/lilei.wxml-->
+<!-- pages/kfc/kfc.wxml -->
+<view class="one">
+    <image src="../../kfcimages/Screenshot_20190106-133704_03.jpg" />
+</view>
+<view class="two">
+    <image src="../../kfcimages/Screenshot_20190106-133704_07.jpg" />
+    <text>肯德基礼品卡</text>
+</view>
+<view class='three'>
+    <view class="three_top">
+        <view>
+            <image src="../../kfcimages/Screenshot_20190106-133704_10.jpg" />
+        </view>
+        <view>
+            <text>50元礼品卡</text>
+            <text>￥47.5</text>
+        </view>
+        <text>今晚一起看球</text>
+    </view>
+    <view class="three_top">
+        <view>
+            <image src="../../kfcimages/Screenshot_20190106-133704_12.jpg" />
+        </view>
+        <view>
+            <text>100元礼品卡</text>
+            <text>￥95</text>
+        </view>
+        <text>送给一家人浓浓的心意</text>
+    </view>
+    <view class="three_top">
+        <view>
+            <image src="../../kfcimages/Screenshot_20190106-133704_16.jpg" />
+        </view>
+        <view>
+            <text>200元礼品卡</text>
+            <text>￥190</text>
+        </view>
+        <text>一份心意，送去生日的祝福</text>
+    </view>
+</view>

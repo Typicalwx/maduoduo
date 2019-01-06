@@ -1,0 +1,53 @@
+/* pages/kfc/kfc.wxss */
+.one{
+    width: 690rpx;
+    margin: 0 auto
+}
+.one>image{
+    width: 690rpx;
+    height: 415rpx;
+}
+.two{
+   width: 690rpx;
+     margin: 0 auto;
+     margin-top: 50rpx
+}
+.two>image{
+width: 55rpx;
+height: 29rpx;
+margin-right: 20rpx;
+}
+.two>text{
+    font-size: 29rpx;
+    font-weight: bold;
+}
+.three{
+    width: 690rpx;
+    display: flex;
+    margin:0 auto;
+    justify-content: space-between;
+   flex-wrap: wrap;
+   margin-top:30rpx;
+}
+.three_top{
+    margin-bottom: 45rpx
+}
+.three_top image{
+    width: 316rpx;
+    height: 190rpx;
+}
+.three_top>view:nth-child(2){
+    font-size: 22rpx;
+    display: flex;
+    justify-content: space-between
+}
+.three_top>view:nth-child(2)>text:last-child{
+    color: red
+}
+.three_top>text{
+    display: inline-block;
+    width: 316rpx;
+    font-size: 20rpx;
+    color: #909090;
+    text-align: center
+}
