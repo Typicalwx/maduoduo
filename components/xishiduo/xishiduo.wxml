@@ -1,0 +1,27 @@
+<!-- pages/xishiduo/xishiduo.wxml -->
+<view class="title">
+    <image src="../../images/mhw/131231_03.png" class="titleImg" />
+    <text class="titleText">喜士多</text>
+</view>
+<view class="big">
+    <image src="../../image/131231_07.png" class="bigImg" />
+    <view class="card">
+        <image src="../../images/mhw/xiangyun.png" />
+        <text class="cardText">喜士多心意卡</text>
+    </view>
+</view>
+<view class="ticket">
+    <image src="../../images/mhw/11_03.png" class="ticketImg" />
+    <image src="../../images/mhw/11_05.png" class="ticketImg" />
+    <image src="../../images/mhw/11_09.png" class="ticketImg" />
+</view>
+<block class="container">
+    <block class="userinfo">
+        <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo">
+            获取头像昵称
+        </button>
+        <block wx:else>
+            <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+        </block>
+    </block>
+</block>
