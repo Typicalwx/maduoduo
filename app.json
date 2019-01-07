@@ -1,9 +1,11 @@
 {
   "pages": [
     "pages/dq/dq",
-    "pages/index/index",
-    "pages/logs/logs"
     
+    "pages/logs/logs",
+    
+    "pages/index/index",
+    "pages/kfc/kfc"
   ],
   "window": {
     "backgroundTextStyle": "light",
