@@ -1,0 +1,20 @@
+/* components/typ/typ.wxss */
+.imagesview{
+  text-align: center;
+  margin-top: 20rpx;
+}
+.imgages{
+  width: 90%;
+  height: 400rpx;
+}
+.smallimages{
+  width: 308rpx;
+  height: 164rpx;
+  margin-top: 20rpx;
+  }
+  .small{
+    margin-top: 20rpx;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }

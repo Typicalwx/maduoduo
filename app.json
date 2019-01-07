@@ -4,6 +4,7 @@
     
     "pages/logs/logs",
     
+    "pages/daohang/daohang",
     "pages/index/index",
     "pages/kfc/kfc",
     "pages/tianfu/tianfu",

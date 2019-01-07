@@ -1,0 +1,11 @@
+<!--components/typ/typ.wxml-->
+<view class='imagesview'>
+  <image class='imgages' src="../../images/typ/微信图片_20190106154353_03_13.jpg">
+  </image>
+</view>
+<view class='small'>
+  <image class='smallimages' src='../../images/typ/微信图片_20190106154353_03_20.jpg'></image>
+   <image class='smallimages' src='../../images/typ/微信图片_20190106154353_03_20.jpg'></image>
+  <image class='smallimages' src='../../images/typ/微信图片_20190106154353_03_20.jpg'></image>
+   <image class='smallimages' src='../../images/typ/微信图片_20190106154353_03_20.jpg'></image>
+</view>
