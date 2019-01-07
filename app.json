@@ -5,7 +5,11 @@
     "pages/logs/logs",
     
     "pages/index/index",
-    "pages/kfc/kfc"
+    "pages/kfc/kfc",
+    "pages/tianfu/tianfu",
+    
+    "pages/logs/logs"
+   
   ],
   "window": {
     "backgroundTextStyle": "light",
